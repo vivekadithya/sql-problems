@@ -1,1 +1,6 @@
-This repository holds the SQL queries I wrote for publicly available SQL exercises. This also serves as a place to track my progress.
+I will be documenting the solutions I write for publicly available SQL exercises.
+
+This repository currently holds solutions for the following:
+- SQL Bolt
+- Hackerrank
+- SQLZoo
