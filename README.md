@@ -4,3 +4,4 @@ This repository currently holds solutions for the following:
 - SQL Bolt
 - Hackerrank
 - SQLZoo
+- Mode Analytics SQL Bootcamp
